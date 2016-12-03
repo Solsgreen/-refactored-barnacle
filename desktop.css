@@ -13,6 +13,9 @@
   .navbar {
     margin-bottom: -20px;
   }
+  .car-item{
+    height: 500px;
+  }
   .carousel-img {
     min-width: 100%;
   }

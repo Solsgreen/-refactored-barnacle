@@ -10,5 +10,11 @@
     padding: 0;
     margin: 0 auto;
   }
+  .navbar {
+    margin-bottom: -20px;
+  }
+  .carousel-img {
+    min-width: 100%;
+  }
 
 }
