@@ -10,4 +10,7 @@
     padding: 0;
     margin: 0 auto;
   }
+.carousel-img {
+  min-width: 100%;
+}
 }
