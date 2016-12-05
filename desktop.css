@@ -14,9 +14,22 @@
     margin-bottom: -20px;
   }
   .car-item{
-    height: 500px;
+    height: 650px;
   }
   .carousel-img {
     min-width: 100%;
   }
+  .about-us {
+    text-align: center;
+    margin: 0;
+  }
+  .about-us {
+    margin: 40px;
+  }
+  .caption {
+    text-align: center;
+    margin: 0:
+  }
+
+
 }
