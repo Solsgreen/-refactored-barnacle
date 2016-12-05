@@ -29,16 +29,23 @@
   .carousel-img {
     min-width: 100%;
   }
-  .about-us {
-    text-align: center;
-    margin: 0;
+  .img-wrap{
+    float: right;
+    height: 300px;
+    width: 220px;
   }
   .about-us {
+    text-align: center;
     margin: 40px;
   }
   .caption {
     text-align: center;
     margin: 0:
   }
+  #process {
+    background-color: #FECE2F;
+    color: #FFFFFF;
+  }
+
 
 }
