@@ -57,4 +57,9 @@
     background-size: cover;
     height: 350px;
   }
+  .ourproduct{
+    margin-bottom: 40px;
+    margin-left: 0;
+    width: 100%;
+  }
 }
