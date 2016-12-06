@@ -31,21 +31,29 @@
   }
   .img-wrap{
     float: right;
-    height: 300px;
-    width: 220px;
+    height: 400px;
+    width: 320px;
+    margin-bottom: 20px;
   }
   .about-us {
     text-align: center;
     margin: 40px;
   }
-  .caption {
+  .about-text {
     text-align: center;
-    margin: 0:
+    padding: 20px;
+  }
+
+  .thumb-box > h3 {
+    text-align: center;
   }
   #process {
-    background-color: #FECE2F;
+    background-color: gray;
     color: #FFFFFF;
   }
-
-
+  .solar{
+    background-image: url("images/solar.jpg");
+    background-size: cover;
+    height: 500px;
+  }
 }
