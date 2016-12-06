@@ -12,7 +12,7 @@
   }
   hr {
       display: block;
-      margin-top: 0.5em;
+      margin-top: 1em;
       margin-bottom: 0.5em;
       margin-left: auto;
       margin-right: auto;
@@ -50,7 +50,6 @@
   .thumb-box > h3, i {
     padding: 10px;
   }
-
   #process {
     background-color: gray;
     color: #FFFFFF;
