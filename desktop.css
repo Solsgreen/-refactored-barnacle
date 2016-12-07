@@ -73,6 +73,7 @@
     border-color: #D09427;
     border-style: solid;
     border-size: 1px;
+    box-shadow: 10px 5px 5px black;
   }
   #footer {
     background-color: #527A29;
