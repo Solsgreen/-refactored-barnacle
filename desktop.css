@@ -20,11 +20,6 @@
       border-width: 1px;
       width: 90%;
   }
-  /*hr.style-two {
-      border: 0;
-      height: 1px;
-      background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-  }*/
   .navbar {
     margin-bottom: -20px;
   }
@@ -78,5 +73,9 @@
     border-color: #D09427;
     border-style: solid;
     border-size: 1px;
+  }
+  #footer {
+    background-color: #527A29;
+    color: #FFFFFF;
   }
 }
