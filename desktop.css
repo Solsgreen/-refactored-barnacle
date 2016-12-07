@@ -70,10 +70,11 @@
   .white {
     height: 200px;
     background-color: white;
-    border-color: #D09427;
+    border-color: #FECE2F;
     border-style: solid;
-    border-size: 1px;
-    box-shadow: 10px 5px 5px black;
+    border-width: thin;
+    /*border-size: 1px;*/
+    box-shadow: 10px 5px 5px #D09427;
   }
   #footer {
     background-color: #527A29;
