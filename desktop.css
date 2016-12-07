@@ -53,6 +53,12 @@
     background-color: #D09427;
     color: #FFFFFF;
   }
+  .col-md-12.about-us.process{
+    text-shadow: 2px 2px 4px #000000;
+  }
+  .col-md-12.about-us.schedule{
+    text-shadow: 2px 2px 4px #000000;
+  }
   .solar{
     background-image: url("images/solar.jpg");
     background-size: cover;
