@@ -12,7 +12,7 @@
   }
   hr {
       display: block;
-      margin-top: 1em;
+      margin-top: 2em;
       margin-bottom: 0.5em;
       margin-left: auto;
       margin-right: auto;
@@ -20,6 +20,7 @@
       border-width: 1px;
       width: 80%;
   }
+
   .navbar {
     margin-bottom: -20px;
   }
@@ -49,10 +50,7 @@
   .thumb-box > h3, i {
     padding: 10px;
   }
-  .img-earth {
-    /*width: 350px;
-    height: 500px;*/
-    overflow: auto;
+  .fa-tint {
   }
 
   #process {
