@@ -65,12 +65,18 @@
   .ourproduct{
     margin-bottom: 40px;
   }
-  .red {
-    background-color: red;
-    height: 200px;
+  #schedule {
+    background-color: #D09427;
+    color: #FFFFFF;
   }
-  .black {
-    background-color: black;
+  .schedule-box {
+    padding-bottom: 50px;
+  }
+  .white {
     height: 200px;
+    background-color: white;
+    border-color: #D09427;
+    border-style: solid;
+    border-size: 1px;
   }
 }
