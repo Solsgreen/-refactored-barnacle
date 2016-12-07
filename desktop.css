@@ -40,10 +40,15 @@
     margin-top: 100px;
     margin-bottom: 100px;
   }
+
   .about-text {
     text-align: center;
     padding: 20px;
   }
+  .img-water{
+    height: 246px;
+  }
+
   .thumb-box  {
     text-align: center;
   }
