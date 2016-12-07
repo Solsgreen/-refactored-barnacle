@@ -18,9 +18,13 @@
       margin-right: auto;
       border-style: inset;
       border-width: 1px;
-      width: 80%;
+      width: 90%;
   }
-
+  /*hr.style-two {
+      border: 0;
+      height: 1px;
+      background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }*/
   .navbar {
     margin-bottom: -20px;
   }
@@ -40,24 +44,20 @@
     margin-top: 100px;
     margin-bottom: 100px;
   }
+  .about-us > hr {
+    color: white;
+  }
 
   .about-text {
     text-align: center;
     padding: 20px;
   }
-  .img-water{
-    height: 246px;
-  }
-
   .thumb-box  {
     text-align: center;
   }
   .thumb-box > h3, i {
     padding: 10px;
   }
-  .fa-tint {
-  }
-
   #process {
     background-color: #D09427;
     color: #FFFFFF;
@@ -69,7 +69,5 @@
   }
   .ourproduct{
     margin-bottom: 40px;
-    margin-left: 0;
-    width: 100%;
   }
 }
