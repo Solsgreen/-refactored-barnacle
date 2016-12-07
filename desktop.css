@@ -65,4 +65,12 @@
   .ourproduct{
     margin-bottom: 40px;
   }
+  .red {
+    background-color: red;
+    height: 200px;
+  }
+  .black {
+    background-color: black;
+    height: 200px;
+  }
 }
