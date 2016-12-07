@@ -35,8 +35,7 @@
     min-width: 100%;
   }
   .img-wrap{
-    height: 400px;
-    width: 320px;
+    height: 500px;
     margin-bottom: 40px;
   }
   .about-us {
@@ -44,10 +43,6 @@
     margin-top: 100px;
     margin-bottom: 100px;
   }
-  .about-us > hr {
-    color: white;
-  }
-
   .about-text {
     text-align: center;
     padding: 20px;
