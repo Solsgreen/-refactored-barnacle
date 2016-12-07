@@ -59,6 +59,7 @@
   }
   .ourproduct{
     margin-bottom: 40px;
+    box-shadow: 10px 5px 5px black;
   }
   #schedule {
     background-color: #FECE2F;
@@ -79,5 +80,10 @@
   #footer {
     background-color: #527A29;
     color: #FFFFFF;
+  }
+  .sunset{
+    background-image: url("images/sunset.jpg");
+    background-size: cover;
+    height: 350px;
   }
 }
