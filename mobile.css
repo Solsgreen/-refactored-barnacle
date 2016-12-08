@@ -10,11 +10,52 @@
     padding: 0;
     margin: 0 auto;
   }
+  hr {
+      display: block;
+      margin-top: 2em;
+      margin-bottom: 0.5em;
+      margin-left: auto;
+      margin-right: auto;
+      border-style: inset;
+      border-width: 1px;
+      width: 50%;
+  }
   .navbar {
     margin-bottom: -20px;
   }
   .carousel-img {
     min-width: 100%;
+  }
+  .about-us {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 0.75em;
+  }
+  .about-text {
+    text-align: center;
+    padding: 2em;
+  }
+  .img-wrap{
+    height: 500px;
+    margin-left: 3em;
+    margin-bottom: 3em;
+  }
+  #our-process {
+    background-color: #D09427;
+    color: #FFFFFF;
+  }
+  .about-text {
+    text-align: center;
+    padding: 20px;
+  }
+  .thumb-box  {
+    text-align: center;
+  }
+  .thumb-box > h3, i {
+    padding: 10px;
+  }
+  .col-md-12.ourproduct{
+    display: none;
   }
 
 }
