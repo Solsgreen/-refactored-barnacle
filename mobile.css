@@ -57,6 +57,14 @@
   .col-md-12.ourproduct{
     display: none;
   }
+  .solar{
+    background-image: url("images/solar.jpg");
+    /*background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;*/
+    background-size: cover;
+    height: 150px;
+  }
   #schedule {
     background-color: #FECE2F;
     color: #FFFFFF;
