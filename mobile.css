@@ -81,7 +81,7 @@
     border-width: thin;
     box-shadow: 5em 2.5em 2.5em #D09427;
   }
-  .col-md-12.white {
+  .col-xs-12.col-md-8.white {
     color: black;
   }
   .schedule-box {

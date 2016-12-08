@@ -90,9 +90,15 @@
     border-width: thin;
     box-shadow: 10px 5px 5px #D09427;
   }
-  .col-md-12.white {
+  .col-md-12.white{
     color: black;
   }
+  .col-md-8.white {
+    color: black;
+  }
+  /*.img-cart {
+    height:185px;
+  }*/
   #footer {
     background-color: #527A29;
     color: #FFFFFF;
