@@ -43,6 +43,10 @@
     text-align: center;
     padding: 20px;
   }
+  .img-responsive.img-rounded.img-shishka {
+    height: 450px;
+    margin-bottom: 10px;
+  }
   .thumb-box  {
     text-align: center;
   }
