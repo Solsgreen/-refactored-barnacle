@@ -57,5 +57,33 @@
   .col-md-12.ourproduct{
     display: none;
   }
+  #schedule {
+    background-color: #FECE2F;
+    color: #FFFFFF;
+  }
+  .col-md-12.about-us.process{
+    text-shadow: 2px 2px 4px #000000;
+  }
+  .col-md-12.about-us.schedule{
+    text-shadow: 2px 2px 4px #000000;
+  }
+  .white {
+    height: 200px;
+    background-color: white;
+    border-color: #FECE2F;
+    border-style: solid;
+    border-width: thin;
+    box-shadow: 10px 5px 5px #D09427;
+  }
+  .col-md-12.white {
+    color: black;
+  }
+  .schedule-box {
+    padding-bottom: 50px;
+  }
+  #footer {
+    background-color: #527A29;
+    color: #FFFFFF;
+  }
 
 }
