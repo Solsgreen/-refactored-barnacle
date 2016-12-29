@@ -91,5 +91,9 @@
     background-color: #D09427;
     color: #FFFFFF;
   }
+  .stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
 
 }

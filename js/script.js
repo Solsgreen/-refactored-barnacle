@@ -1,4 +1,7 @@
 $(document).ready(function(){
+
+  $.ageCheck();
+
   $("#about").click(function(){
     $('html, body').animate({
       scrollTop: $("#about-us").offset().top
