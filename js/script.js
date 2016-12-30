@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  $.ageCheck();
+  // $.ageCheck();
 
   $("#about").click(function(){
     $('html, body').animate({
