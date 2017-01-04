@@ -103,5 +103,8 @@
     background-color: #D09427;
     color: #FFFFFF;
   }
+  .table caption {
+    text-align: center;
+  }
 
 }
