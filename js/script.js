@@ -26,6 +26,12 @@ $(document).ready(function(){
     }, 1000);
   });
 
+  $("#grow").click(function(){
+    $('html, body').animate({
+      scrollTop: $("#supplies").offset().top
+    }, 1000);
+  });
+
   $("#contact").click(function(){
     $('html, body').animate({
       scrollTop: $("#footer").offset().top
