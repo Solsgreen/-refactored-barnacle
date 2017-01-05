@@ -26,6 +26,11 @@
   .carousel-img {
     min-width: 100%;
   }
+  #shishka {
+    position:relative;
+    left: 275px;
+
+  }
   .img-wrap{
     height: 500px;
     margin-bottom: 40px;
