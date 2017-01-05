@@ -78,6 +78,7 @@
   #schedule {
     background-color: #FECE2F;
     color: #FFFFFF;
+    font-weight: bold;
   }
   .schedule-box {
     padding-bottom: 50px;
@@ -94,14 +95,44 @@
     background-image: url("images/growsite.jpg");
     background-size: cover;
   }
+  .col-xs-12.col-md-12.white.one h1 {
+    position: relative;
+    top: 300px;
+    left: 450px;
+  }
+  .col-xs-12.col-md-12.white.one p {
+    position: relative;
+    top: 300px;
+    left: 450px;
+  }
   #resin {
     background-image: url("images/resin.jpg");
     background-size: cover;
   }
-  #process {
+  .col-xs-12.col-md-12.white.two h1 {
+    position: relative;
+    left: 300px;
+    top: 300px;
+  }
+  .col-xs-12.col-md-12.white.two p {
+    position: relative;
+    left: 300px;
+    top: 300px;
+  }
+  #machine {
     background-image: url("images/process.jpg");
     background-size: cover;
   }
+  .col-xs-12.col-md-12.white.three h1, .col-xs-12.col-md-12.white.three p {
+    position:relative;
+    top: 250px;
+    left: 600px;
+  }
+  /*.col-xs-12.col-md-12.white.three > p {
+    position:relative;
+    top: 250px;
+    left: 600px;
+  }*/
   #footer {
     background-color: #D09427;
     color: #FFFFFF;
