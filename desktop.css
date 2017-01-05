@@ -11,7 +11,10 @@
     padding: 0;
     margin: 0 auto;
   }
-  hr {
+  h3 {
+    text-align: center;
+  }
+  /*hr {
       display: block;
       margin-top: 2em;
       margin-bottom: 0.5em;
@@ -20,7 +23,7 @@
       border-style: inset;
       border-width: 1px;
       width: 90%;
-  }
+  }*/
   .navbar {
     margin-bottom: -20px;
   }
@@ -69,7 +72,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 350px;
+    height: 500px;
   }
   .ourproduct{
     margin-bottom: 40px;
@@ -103,8 +106,11 @@
   .table caption {
     text-align: center;
   }
-  h3 {
-    text-align: center;
+  #growsite {
+      background-image: url("images/growsite.jpg");
+      /*background-attachment: fixed;*/
+      background-size: cover;
   }
+
 
 }
