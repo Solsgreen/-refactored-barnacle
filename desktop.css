@@ -96,14 +96,14 @@
   .col-md-8.white {
     color: black;
   }
-  /*.img-cart {
-    height:185px;
-  }*/
   #footer {
     background-color: #D09427;
     color: #FFFFFF;
   }
   .table caption {
+    text-align: center;
+  }
+  h3 {
     text-align: center;
   }
 
