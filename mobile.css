@@ -101,5 +101,19 @@
 h3 {
   text-align: center;
 }
-
+#growsite{
+  background-image: url("images/growsite.jpg");
+  background-size: cover;
+  color: white;
+}
+#resin {
+  background-image: url("images/resin.jpg");
+  background-size: cover;
+  color: white;
+}
+#machine {
+  background-image: url("images/process.jpg");
+  background-size: cover;
+  color: white;
+  text-align: right
 }
