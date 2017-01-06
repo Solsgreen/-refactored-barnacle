@@ -6,6 +6,7 @@
     <title>Solsgreen</title>
     <link href="images/favicon.ico" rel="icon" type="image/x-icon" > <!--for favicon in broswer-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="mobile.css" media=screen only (max-width:767px)> <!--for mobile displays-->
     <link rel="stylesheet" href="desktop.css" media=screen only (min-width:768px)> <!--for desktop displays-->
     <link rel="stylesheet" href="agecheck.css"/>
@@ -19,7 +20,10 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
             <span class="glyphicon glyphicon-menu-hamburger"></span>
           </button>
-          <a class="navbar-brand" href="#">Solsgreen</a>
+          <a class="navbar-brand" href="#">
+            Solsgreen
+            <!-- <img class="brand" src="images/solsgreen.png"> -->
+          </a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav navbar-right">
@@ -228,9 +232,6 @@
         <h1>
           40,000 sqft OLCC Licensed Title II Grow
         </h1>
-        <!-- <h3>
-          10 Outdoor Green Houses totaling 40,000 sqft
-        </h3> -->
         </p>
       </div>
     </div>
@@ -360,15 +361,13 @@
             <label for="emailInput">Email</label>
             <input type="email" name="name" class="form-control" id="emailInput" placeholder="Email">
           </div> <!--/.form-group-->
-        </div> <!--/.col-md-4-->
-        <div class="col-md-6">
           <div class="form-group">
             <label form="messageInput">Message</label>
               <textarea class="form-control" rows="7" name="name"id="messageInput" placeholder="Enter your message here">
               </textarea>
           </div> <!--/.form-group-->
-        </div> <!--/.col-md-4-->
-        <button type="submit" class="btn btn-default">Submit</button>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </div> <!--/.col-md-6-->
       </form>
     </div> <!--/.row-->
 </section> <!--/#footer-->

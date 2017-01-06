@@ -54,7 +54,7 @@
     padding: 10px;
   }
   #our-process {
-    background-color: #527A29;
+    background-color: #52683F;
     color: #FFFFFF;
   }
   .col-md-12.about-us.process{
@@ -134,6 +134,7 @@
 }
   #footer {
     background-color: #D09427;
+    border-color: #FECE2F;
     color: #FFFFFF;
   }
   .table caption {
