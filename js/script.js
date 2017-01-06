@@ -38,5 +38,11 @@ $(document).ready(function(){
     }, 1000);
   });
 
+  $("#quotation").click(function(){
+    $('html, body').animate({
+      scrollTop: $("#footer").offset().top
+    }, 1000);
+  });
+
 
 });
