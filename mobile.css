@@ -33,8 +33,8 @@
     margin-bottom: 5em;
   }
   #shishka {
-    margin-top: 3em;
-    margin-bottom: 3em;
+    padding-top: 3em;
+    padding-bottom: 3em;
   }
   .about-text {
     text-align: center;
@@ -49,6 +49,13 @@
     background-color: #527A29;
     color: #FFFFFF;
   }
+  .col-xs-12.col-md-12.about-us.process {
+    margin-top: 5em;
+  }
+  .col-xs-12.col-md-4.thumb-box {
+    margin-top: 5em;
+    margin-bottom: 5em;
+    }
   .about-text {
     text-align: center;
     padding: 20px;
