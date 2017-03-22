@@ -51,6 +51,7 @@
   }
   .col-xs-12.col-md-12.about-us.process {
     margin-top: 5em;
+    text-align: center;
   }
   .col-xs-12.col-md-4.thumb-box {
     margin-top: 5em;
@@ -65,6 +66,10 @@
   }
   .thumb-box > h3, i {
     padding: 10px;
+  }
+  .col-xs-12.col-md-12.about-us.products{
+    margin-top: -3em;
+    text-align: center;
   }
   .col-md-12.ourproduct{
     display: none;
