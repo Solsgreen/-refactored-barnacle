@@ -57,6 +57,10 @@
     margin-top: 5em;
     margin-bottom: 5em;
     }
+
+  .col-xs-12.col-md-6.thumb-box.strains > p {
+    margin-bottom: 5em;
+  }
   .about-text {
     text-align: center;
     padding: 20px;
@@ -66,6 +70,10 @@
   }
   .thumb-box > h3, i {
     padding: 10px;
+  }
+  .col-xs-12.col-md-12.about-us.products.strains{
+    margin-top: 5em;
+    margin-bottom: 5em;
   }
   .col-xs-12.col-md-12.about-us.products{
     margin-top: -3em;
@@ -82,21 +90,17 @@
   #schedule {
     background-color: #FECE2F;
     color: #FFFFFF;
-
   }
-
   .col-xs-12.col-md-12.about-us.schedule{
     text-shadow: 0.5em 0.5em 1em #000000;
     margin-top: 5em;
     margin-bottom: 5em;
-    text-align: center;
+    text-align: center;t
   }
   .col-md-12.about-us.process{
     text-shadow: 0.5em 0.5em 1em #000000;
   }
-  /*.col-md-12.about-us.schedule{
-    text-shadow: 0.5em 0.5em 1em #000000;
-  }*/
+
   .white {
     height: 200px;
     background-color: white;
