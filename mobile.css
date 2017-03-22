@@ -82,13 +82,21 @@
   #schedule {
     background-color: #FECE2F;
     color: #FFFFFF;
+
+  }
+
+  .col-xs-12.col-md-12.about-us.schedule{
+    text-shadow: 0.5em 0.5em 1em #000000;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    text-align: center;
   }
   .col-md-12.about-us.process{
     text-shadow: 0.5em 0.5em 1em #000000;
   }
-  .col-md-12.about-us.schedule{
+  /*.col-md-12.about-us.schedule{
     text-shadow: 0.5em 0.5em 1em #000000;
-  }
+  }*/
   .white {
     height: 200px;
     background-color: white;
