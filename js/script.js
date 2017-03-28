@@ -14,6 +14,12 @@ $(document).ready(function(){
     }, 1000);
   });
 
+  $("#strains").click(function(){
+    $('html, body').animate({
+      scrollTop: $("#our-strains").offset().top
+    }, 1000);
+  });
+
   $("#products").click(function(){
     $('html, body').animate({
       scrollTop: $("#our-products").offset().top
